@@ -1,0 +1,103 @@
+body{
+    background-color:rgb(255, 230, 234);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+}
+
+.box {
+  margin: 0 auto;
+    border: 1px solid rgb(255, 244, 209);
+    padding: 20px;
+    background-color:rgb(255, 244, 209);
+    border-radius: 10px;
+    text-align: center;
+}
+
+  .boxtext {
+  margin: 0 auto;
+    border: 1px solid rgb(255, 244, 209);
+    padding: 20px;
+    background-color:rgb(255, 244, 209);
+    border-radius: 10px;
+    text-align: center;
+    max-width: 700px;
+}
+
+
+.order {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex; 
+  gap: 20px; 
+  text-align: center;
+}
+
+.order li {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.me {
+text-align: center;
+font-size: 20px;
+}
+
+.foods{
+    font-size: 20px;
+    text-align: center;
+}
+
+.favfoods{
+    font-size: 20px;
+    text-align: center;
+}
+
+
+
+.recap {
+  max-width: 700px;
+  margin: 40px auto; 
+  padding: 30px;
+  background-color:rgb(255, 244, 209);
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.recapme {
+
+  padding-left: 40px;
+  text-align: center; 
+  margin: 20px auto;
+  max-width: 500px;
+  list-style: none;
+  font-size: 20px;
+}
+
+.imgsea {
+  margin-top: 30px;
+}
+
+.imgsea img {
+  max-width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+.list{
+  font-size: 20px;
+}
+
+
+ 
+    

@@ -1,0 +1,47 @@
+body{
+    background-color: lightcyan;
+}
+
+.box{
+    width: 450px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 20px;
+    background-color:lightblue;
+    border-radius: 10px;
+}
+
+.order {
+    text-align: center;
+}
+
+.order li{
+    display: inline;
+    margin-right: 20px;
+    
+}
+
+.image_team{
+    text-align: center;
+    font-size: medium;
+  width: 650px;
+        margin: 0 auto;
+        border: 1px solid black;
+        padding: 20px;
+        background-color:lightblue;
+}
+
+.info{
+    text-align: center;
+    font-size: 25px;
+}
+
+.infophoto{
+    text-align: center;
+    width: 600px;
+
+}
+
+.simone{
+    font-size: 25px;
+}
